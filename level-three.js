@@ -27,9 +27,7 @@ function repeatString(message, times) {
     summation(5) => 15 or (5 + 4 + 3 + 2 + 1 = 15)
 */
 function summation(number) {
-for (var i=1; i< number; i++){
-  number = i*number;
-}
+
 
 }
 
